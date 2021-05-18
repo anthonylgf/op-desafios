@@ -2,5 +2,8 @@ target
 *.json
 *.iml
 .idea
-src/test
 venv
+*.c
+dist/
+build/
+desafio05_python_anthonylgf.egg-info/
